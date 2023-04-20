@@ -22,13 +22,14 @@ Compile and deploy the smart contract
 npx truffle compile
 npx truffle migrate
 ```
+> NOTE: If you make changes in the smart contract you have to redeploy it using `npx truffle migrate --reset`
 ### Step 5
-Run the client using `yarn`
+Install `node_modules` using `yarn`
 ```bash
 cd client
 yarn
 ```
-Run the client using `npm`
+Install `node_modules` using `npm`
 ```bash
 cd client
 npm install
