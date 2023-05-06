@@ -1,3 +1,13 @@
+* {
+    background-color: white;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    border: 2px;
+}
 hr{
     position: relative;
     top: 20px;
@@ -9,4 +19,37 @@ hr{
     text-align: center;
     margin-top: 5rem;
 }
+.header {
+    border: 2px;
+    padding: 10px;
+}
+.register {
+    background-color: azure;
+    border: 2px solid #ccc; /* Border color and width */
+    border-radius: 8px; /* Border radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Shadow effect */
+    padding: 20px; /* Add padding to create some space inside the border */
+}
+.ordermedicines {
+    background-color: azure;
+    border: 2px solid #ccc; /* Border color and width */
+    border-radius: 8px; /* Border radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Shadow effect */
+    padding: 20px; /* Add padding to create some space inside the border */
+}
+.controlchain {
+    background-color: azure;
+    border: 2px solid #ccc; /* Border color and width */
+    border-radius: 8px; /* Border radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Shadow effect */
+    padding: 20px; /* Add padding to create some space inside the border */
+}
+.track {
+    border: 2px solid #ccc; /* Border color and width */
+    border-radius: 8px; /* Border radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); /* Shadow effect */
+    padding: 20px; /* Add padding to create so */
+}
+  
 
+  
